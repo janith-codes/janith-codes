@@ -77,11 +77,11 @@ Here are some of the technologies and tools I work with:
   </tr>
 </table>
 
----  |
+---  
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula" alt="Janith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janith-codes&show_icons=true&theme=dracula" alt="Janith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janith-codes&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
