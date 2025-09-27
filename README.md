@@ -77,34 +77,7 @@ Here are some of the technologies and tools I work with:
   </tr>
 </table>
 
----
-
-### 🚀 My Experience
-
-**Software Engineer Intern** | Helixz Solutions (_Feb 2025 - Present_)
-* Developed and maintained secure microservices using Java and Spring Boot in a Gradle multimodule architecture.
-* Engineered responsive front-end applications with Next.js and Tailwind CSS.
-* Enhanced system reliability by writing unit and integration tests with JUnit and Mockito.
-* Deployed Spring Boot applications on AWS EC2 instances.
-
-**Software Engineer (Part-Time)** | Ryzera Technologies Inc (_Aug 2024 - Present_)
-* Developed full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js.
-* Built and consumed RESTful APIs with Node.js to power dynamic front-end interfaces.
-* Deployed and managed web applications on Vercel.
-
----
-
-### 📂 Featured Projects
-
-Here are some of the projects I've worked on.
-
-| Project Name                       | Description                                                                                             | Technologies Used                                               |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Prescription Management System** | Architected a healthcare system using microservices to streamline the prescription process securely.      | Spring Boot, Microservices, Angular, MySQL, Maven               |
-| **Full-Stack Blog Platform** | Built a dynamic CMS with full CRUD operations, JWT-based authentication, and a rich text editor.          | React.js, Redux, Node.js, Express.js, MongoDB, JWT            |
-| **E-Commerce Platform** | Developed a comprehensive e-commerce site with product management, shopping cart, and order processing. | Angular, Spring Boot, Hibernate, MySQL, Bootstrap             |
-
----
+---  |
 
 ### 📊 My GitHub Stats
 
