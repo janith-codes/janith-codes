@@ -12,7 +12,7 @@
 
 I'm a passionate Software Engineer specializing in building scalable and efficient full-stack web applications. I have hands-on experience in developing secure microservices and engineering responsive front-end interfaces.
 
-* 🔭 I’m currently working as a **Software Engineer Intern** at [Helixz Solutions](https://www.helixz.solutions/) and a part-time **Software Engineer** at [Ryzera Technologies Inc](https://ryzeratech.com/).
+* 🔭 I’m currently working as a **Software Engineer** at [Helixz Solutions](https://www.helixz.solutions/) and a part-time **Software Engineer** at [Ryzera Technologies Inc](https://ryzeratech.com/).
 * 🌱 I'm continuously learning and exploring new technologies in cloud computing and distributed systems.
 * 👯 I’m looking to collaborate on open-source projects related to Java, Spring Boot, or React.
 * 📫 How to reach me: **janithsandaruwan.dev@gmail.com**
